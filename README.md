@@ -1,7 +1,7 @@
 - :ringed_planet: Hello, I’m Arianna
 - :potted_plant: I’m currently learning Node.js 
 - 🌱 Next step: Java
-- 💞️ I’m looking for a first job
+- :telescope: I’m looking for a first job
 - :sailboat: How to reach me : [VCard](https://ariannatelesca.github.io/VCard/)
 
 <!---
